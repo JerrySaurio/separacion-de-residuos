@@ -1,3 +1,5 @@
-saludo="hola_mundo"
-print (saludo
-       )
+saludo="hola mundo"
+print (saludo)
+
+invitado = "Hola soy jerry"
+print (invitado)
