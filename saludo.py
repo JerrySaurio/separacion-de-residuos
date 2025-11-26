@@ -1,5 +1,2 @@
-saludo="hola mundo"
-print (saludo)
-
-invitado = "Hola soy jerry"
-print (invitado)
+saludo = input("¿Cómo te llamas? ")
+print (f"Hola {saludo}, bienvenido al nuevo mundo de la programación")
